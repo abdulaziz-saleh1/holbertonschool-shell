@@ -1,2 +1,2 @@
 #!/bin/bash
-cd $(getent passwd abdulaziz | cut -d: -f6)
+ cd ~
